@@ -1,5 +1,7 @@
 # Canteen-Management-System
 
+Institution: HKBK College of Engineering, Bangalore | Visvesvaraya Technological University, Karnataka
+
 The objective and scope of the Project was to create a system which keeps records of all the orders given by the employees to the department canteen. It simplifies the task and reduces the paper work. This software is used to manage the sales and record a customer’s purchases in a canteen. During implementation every user would be provided specific support and training would also be provided at key points within the academic calendar.
 
 Follow the following steps:
