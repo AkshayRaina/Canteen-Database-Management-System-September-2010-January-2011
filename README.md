@@ -11,3 +11,5 @@ Follow the following steps:
 3) Go to C:\TurboC++\Disk\TurboC3\BIN and paste CANTEEN.CPP here,
 
 4) Double click on the file, named - CANTEEN.CPP 
+
+Used: Turbo C++ 3.0, Windows, C++, OOPS
