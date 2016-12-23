@@ -10,9 +10,12 @@ Institution: HKBK College of Engineering, Bangalore | Visvesvaraya Technological
 
 Follow the following steps:
 
-1) Go to My Computer then,
+1) Go to My Computer then
+
 2) Install: Turbo C++ 3.0 
-3) Go to C:\TurboC++\Disk\TurboC3\BIN and paste CANTEEN.CPP here,
+
+3) Go to C:\TurboC++\Disk\TurboC3\BIN and paste CANTEEN.CPP here
+
 4) Double click on the file, named - CANTEEN.CPP 
 
 Stack: Turbo C++ 3.0, Windows, C++, OOPS
